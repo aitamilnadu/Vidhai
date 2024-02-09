@@ -12,7 +12,7 @@ You can submit detailed metadata for existing datasets through [this form](https
 
 
 #### Task 1.1: Fixing quality issues in existing datasets: 
-Additionally, you can also submit an entry if you have fixed quality issues in an existing Tamil dataset. For example, removing other language words, unwanted links or references from a scraped Tamil dataset. If you refine an existing dataset, then your entry will be considered as a new dataset. Please add the entry through [this form](https://forms.gle/XnGCFn29AiJsUcGT7)).
+Additionally, you can also submit an entry if you have fixed quality issues in an existing Tamil dataset. For example, removing other language words, unwanted links or references from a scraped Tamil dataset. If you refine an existing dataset, then your entry will be considered as a new dataset. Please add the entry through [this form](https://forms.gle/XnGCFn29AiJsUcGT7).
 
 ### Task 2: Creating new datasets 
 You can propose to create a new dataset that can enable further research in various domains, for different tasks and use cases. Upon submission of a [proposal form](https://forms.gle/uprWQiwEGzoDKwLq5) our team will reach out to you to discuss the details. 
