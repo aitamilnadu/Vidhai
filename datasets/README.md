@@ -1,4 +1,4 @@
-All the contributed datasets will be placed under this directory.
+**All the contributed datasets will be placed under this directory.**
 
 If you're working on a new approved dataset, please follow the below steps,
 
