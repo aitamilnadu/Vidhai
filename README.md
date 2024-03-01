@@ -14,13 +14,13 @@ In `Phase 1`, our objective is to curate all the existing datasets (collect meta
 You could propose creating a new dataset or sharing information about existing data subsets (which is part of a multilingual dataset or monolingual dataset). Upon submission of the [proposal form](https://forms.gle/uprWQiwEGzoDKwLq5), our team will review the dataset. 
 - Once the data proposal is accepted, we will share the format in which the data has to be scraped (if new data) or converted (if existing data).
 - You will then follow the guidelines and reformat the data, provide metadata through [metadata form](https://forms.gle/27MiJrjdzjQ3Qjwe9) and the data will be added to the final `vidhai_dataset`.
-- If there are quality issues, then this dataset will be moved to `Phase 2` for fixing them. Once quality issues are fixed, then the data will be added to the final `vidhai_dataset`.
 
 #### Task 1.2: Create datasets through webscraping or OCR
 If you do not know where to start, you can feel free to choose from the [issues](https://github.com/aicbe/Vidhai/issues) and work on the listed sources and create datasets out of it.
 - Once the data is scraped or text is obtained through OCR, it should be converted to the prescribed format and reviewed.
 - Also, provide metadata through [metadata form](https://forms.gle/27MiJrjdzjQ3Qjwe9) and the data will be added to the final `vidhai_dataset`.
-- If there are quality issues, then this dataset will be moved to `Phase 2` for fixing them. Once quality issues are fixed, then the data will be added to the final `vidhai_dataset`.
+
+**Note:** If there are quality issues in `Phase 1` tasks, then this dataset will be moved to `Phase 2` for fixing them. Once quality issues are fixed, then the data will be added to the final `vidhai_dataset`.
 
 ### Phase 2
 In `Phase 2`, our objective is to fix the quality issues in the approved datasets. We will need annotators, translators, NLP experts and linguists to work on the quality issues.
