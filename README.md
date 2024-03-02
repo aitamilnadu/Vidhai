@@ -80,7 +80,7 @@ The datasets with quality issues from `Phase 1` will be moved to `Phase 2` for q
 - Follow the instructions and fix the issue of as many data points as you can.
 
 ## Who can contribute?
-- Everyone can join and contribute to this initiative between _1st March 2024_ and _31st August 2024_.
+- Everyone can join and contribute to this initiative between _1st March 2024_ and _31st December 2024_.
 - `Phase 1` will start first and once we start identifying the issues with quality of the submitted data, `Phase 2` will start then.
 - If you’re able to contribute in a qualitative way according to our guidelines, you stand a chance to win some SWAGS, and become a co-author of our upcoming paper.
 
