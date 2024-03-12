@@ -1,4 +1,19 @@
-# Vidhai
+<div align="center">
+<h1> Vidhai </h1>
+</div>
+
+
+<h4 align="center">
+  <a href="https://github.com/aicbe/Vidhai/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="Vidhai is released under the Apache 2.0 license." />
+  </a>
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="http://makeapullrequest.com" />
+  </a>
+  <a href="https://discord.gg/ThhDSX8nEu">
+    <img src="https://img.shields.io/badge/Discord-Community-orange" alt="Community" />
+  </a>
+</h4>
 
 ## What is Vidhai?
 Vidhai is a collaborative open science initiative to identify, collect and create datasets for Tamil. Our objective is to enable and promote cutting edge AI research in Tamil by building foundation models and tools for native speakers of Tamil globally. We aim to have a single repository of Tamil datasets that could be used for different tasks like language modeling, QA, summarization etc.
