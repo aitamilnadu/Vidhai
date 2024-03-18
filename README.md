@@ -23,7 +23,7 @@ All the datasets that are identified as part of the initiative will be added to 
 It is going to be a life-long initiative, but to make it outcome-based, we will run the initiative in phases with each phase focusing on different aspects of data curation. The primary language of contribution is Tamil, but we will also accept bilingual datasets aimed at specific tasks after a detailed review.
 
 ### Phase 1
-In `Phase 1`, our objective is to curate all the existing datasets (collect metadata) and find sources for creating new data sets in Tamil that can enable further research. The different tasks that you could contribute to are listed below,
+In `Phase 1`, our objective is to curate all the existing datasets (collect metadata) and find sources for creating new datasets in Tamil that can enable further research. The different tasks that you could contribute to are listed below,
 
 #### Task 1.1: Propose new datasets or share information about existing datasets 
 You could propose creating a new dataset or sharing information about existing data subsets (which are part of a multilingual dataset or monolingual dataset). Upon submission of the [proposal form](https://forms.gle/uprWQiwEGzoDKwLq5), our team will review the dataset. 
